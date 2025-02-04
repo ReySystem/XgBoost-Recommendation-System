@@ -1,4 +1,4 @@
-# Yelp Recommender System using Xgboost
+# Xgboost Recommender System
 
 ### Method Description
 I have worked on my Model-Based Recommender System, leveraging XGBoost to predict user ratings for businesses using the Yelp Reviews Dataset.
